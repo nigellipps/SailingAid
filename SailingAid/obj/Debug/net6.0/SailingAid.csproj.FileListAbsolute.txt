@@ -1,0 +1,14 @@
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\bin\Debug\net6.0\SailingAid.exe
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\bin\Debug\net6.0\SailingAid.deps.json
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\bin\Debug\net6.0\SailingAid.runtimeconfig.json
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\bin\Debug\net6.0\SailingAid.dll
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\bin\Debug\net6.0\SailingAid.pdb
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\SailingAid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\SailingAid.AssemblyInfoInputs.cache
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\SailingAid.AssemblyInfo.cs
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\SailingAid.csproj.CoreCompileInputs.cache
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\SailingAid.dll
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\refint\SailingAid.dll
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\SailingAid.pdb
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\SailingAid.genruntimeconfig.cache
+C:\Users\nlipp\source\repos\SailingAid\SailingAid\obj\Debug\net6.0\ref\SailingAid.dll

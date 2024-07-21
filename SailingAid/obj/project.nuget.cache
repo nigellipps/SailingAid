@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c+R4JH8R4I1juLN5hlkIgOxL20YSPR2i+/oSVJJXaMK5ciAB3bvmwdFfmpDLGB+a99H8NZ8MaCwlPj9XxxANpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nlipp\\source\\repos\\SailingAid\\SailingAid\\SailingAid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nlipp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\nlipp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\nlipp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\nlipp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
